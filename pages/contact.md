@@ -1,4 +1,5 @@
 ---
+layout: layouts/contact.njk
 title: Get in touch
 date: 2019-06-01T23:00:00.000Z
 permalink: /contact/index.html

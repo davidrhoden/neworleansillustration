@@ -187,3 +187,10 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+/* footer */
+small (
+	font-family: sans-serif;
+	font-size: .75rem;
+	font-style: italic;
+)

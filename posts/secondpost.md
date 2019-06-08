@@ -1,6 +1,6 @@
 ---
 title: '"Retirees are flocking to Louisiana" for Louisiana Life magazine'
-date: 2016-01-01T00:00:00.000Z
+date: 2019-06-08T11:00:00.000Z
 summary: '"Retirees are flocking to Louisiana" for Louisiana Life magazine'
 tags:
   - illustration

@@ -1,10 +1,12 @@
 ---
-title: This is my fourth post
-summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2017-02-03
+title: Album cover art for Jimmy and The Wolfpack
+date: 2019-06-08T11:00:00.000Z
+summary: Album cover art for Jimmy and The Wolfpack
 tags:
-  - post
-  - environment
-  - politics
+  - illustration
+  - New Orleans
+  - Louisiana
+  - rock and roll
+  - album art
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+![Album cover art for Jimmy and The Wolfpack: illustration by David Rhoden](/static/img/jatwp_illustrationonly.png "Album cover art for Jimmy and The Wolfpack: illustration by David Rhoden")

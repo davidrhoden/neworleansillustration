@@ -25,6 +25,8 @@ body {
 }
 
 main {
+	margin-left: auto;
+	margin-right: auto;
 	max-width: 37.5em;
 }
 
@@ -78,6 +80,10 @@ pre {
 ul {
 	padding: 0;
 	list-style: none;
+}
+
+header {
+	height: auto;
 }
 
 /* Header Logo (style as h2) */

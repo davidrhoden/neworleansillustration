@@ -128,7 +128,14 @@ article {
 	padding-bottom: 1em;
 	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--white);
+	width: 100%;
 }
+
+article img {
+	width: 100%;
+}
+
+
 
 main > section > article > * {
 	margin-top: 0;

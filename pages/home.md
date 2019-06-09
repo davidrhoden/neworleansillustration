@@ -1,5 +1,5 @@
 ---
-title: New Orleans Illustrations
+title: New Orleans Illustration
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
@@ -10,7 +10,7 @@ tags:
 
 ![St. Louis Cathedral New Orleans: illustration by David Rhoden](/static/img/stloufinal.jpg "St. Louis Cathedral New Orleans: illustration by David Rhoden")
 
-Welcome to neworleansillustrations.com!
+Welcome to neworleansillustration.com!
 
 This site is your source for illustrations of New Orleans, Louisiana. You'll also find illustrations of Louisiana attractions outside of New Orleans, and illustrations of things that aren't in New Orleans or Louisiana at all.
 

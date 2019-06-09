@@ -99,7 +99,7 @@ header {
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
-	font-size: 2em;
+	font-size: 1em;
 	margin: 0;
 	font-weight: 200;
 	font-style: normal;

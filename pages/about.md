@@ -1,5 +1,5 @@
 ---
-title: About New Orleans Illustrations
+title: About New Orleans Illustration
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
@@ -8,7 +8,7 @@ tags:
 ---
 ![Bourbon Street tourists on a Haunted History tour: illustration by David Rhoden](/static/img/touristsbig.jpg "Bourbon Street tourists on a Haunted History tour: illustration by David Rhoden")
 
-Thanks for visiting neworleansillustrations.com!
+Thanks for visiting neworleansillustration.com!
 
 This site was created by David Rhoden (that's <a href="http://davidrhoden.com/" target="_blank">me</a>), a New Orleans-based illustrator, painter, and animator. My intention for the site is that it will be a great resource for New Orleans illustrations of all kinds, by many illustrators.
 
